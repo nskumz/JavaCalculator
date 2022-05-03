@@ -14,7 +14,7 @@ public class Calculator {
 		return first;
 	}
 
-	public long getSecond() {
+	ic long getSecond() {
 		return second;
 	}
 	
