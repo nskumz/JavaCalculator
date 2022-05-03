@@ -5,7 +5,7 @@ public class Calculator {
 	private long first;
 	private long second;
 	
-	public Calculator(long first, long second){
+	lic Calculator(long first, long second){
 		this.first = first;
 		this.second=second;
 	}
